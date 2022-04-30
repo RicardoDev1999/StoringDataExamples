@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "App - Text Storage": {
+      "commandName": "Project",
+      "commandLineArgs": "/storageType=text"
+    },
+    "App - Json Storage": {
+      "commandName": "Project",
+      "commandLineArgs": "/storageType=json"
+    },
+    "App - SQL Storage": {
+      "commandName": "Project",
+      "commandLineArgs": "/storageType=sql"
+    }
+  }
+}

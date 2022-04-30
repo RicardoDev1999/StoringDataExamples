@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32319.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoringDataExamples.Business", "StoringDataExamples.Business\StoringDataExamples.Business.csproj", "{D42C4DC5-D98B-4E6C-A0DF-26BEC16B9CF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoringDataExamples.Business.TextFileStorage", "StoringDataExamples.Business.TextFileStorage\StoringDataExamples.Business.TextFileStorage.csproj", "{A1C37E04-EE16-44E7-A383-0E193B194DC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoringDataExamples.Business.JsonStorage", "StoringDataExamples.Business.JsonStorage\StoringDataExamples.Business.JsonStorage.csproj", "{06FB68FC-662D-4FD6-9015-01468EEA7326}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "StorageServices", "StorageServices", "{A01200A0-A6E6-478B-A004-73C24D7D234F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoringDataExamples.Business.SQLStorage", "StoringDataExamples.Business.SQLStorage\StoringDataExamples.Business.SQLStorage.csproj", "{8D6EA0F6-46B9-46AD-980D-381ED8C5D494}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoringDataExamples.Data", "StoringDataExamples.Data\StoringDataExamples.Data.csproj", "{BBDAB236-69DA-4293-8786-F125202274D6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StoringDataExamples.App", "StoringDataExamples.App\StoringDataExamples.App.csproj", "{5059546E-7F34-4FE9-AF56-D5F49087C8D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D42C4DC5-D98B-4E6C-A0DF-26BEC16B9CF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D42C4DC5-D98B-4E6C-A0DF-26BEC16B9CF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D42C4DC5-D98B-4E6C-A0DF-26BEC16B9CF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D42C4DC5-D98B-4E6C-A0DF-26BEC16B9CF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1C37E04-EE16-44E7-A383-0E193B194DC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1C37E04-EE16-44E7-A383-0E193B194DC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1C37E04-EE16-44E7-A383-0E193B194DC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1C37E04-EE16-44E7-A383-0E193B194DC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06FB68FC-662D-4FD6-9015-01468EEA7326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06FB68FC-662D-4FD6-9015-01468EEA7326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06FB68FC-662D-4FD6-9015-01468EEA7326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06FB68FC-662D-4FD6-9015-01468EEA7326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6EA0F6-46B9-46AD-980D-381ED8C5D494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6EA0F6-46B9-46AD-980D-381ED8C5D494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6EA0F6-46B9-46AD-980D-381ED8C5D494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6EA0F6-46B9-46AD-980D-381ED8C5D494}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBDAB236-69DA-4293-8786-F125202274D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBDAB236-69DA-4293-8786-F125202274D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBDAB236-69DA-4293-8786-F125202274D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBDAB236-69DA-4293-8786-F125202274D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5059546E-7F34-4FE9-AF56-D5F49087C8D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5059546E-7F34-4FE9-AF56-D5F49087C8D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5059546E-7F34-4FE9-AF56-D5F49087C8D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5059546E-7F34-4FE9-AF56-D5F49087C8D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A1C37E04-EE16-44E7-A383-0E193B194DC0} = {A01200A0-A6E6-478B-A004-73C24D7D234F}
+		{06FB68FC-662D-4FD6-9015-01468EEA7326} = {A01200A0-A6E6-478B-A004-73C24D7D234F}
+		{8D6EA0F6-46B9-46AD-980D-381ED8C5D494} = {A01200A0-A6E6-478B-A004-73C24D7D234F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC5462E8-2385-494C-90E7-DF77A03F7E36}
+	EndGlobalSection
+EndGlobal

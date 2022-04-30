@@ -1,0 +1,17 @@
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\bin\Debug\net6.0\StoringDataExamples.Business.JsonStorage.deps.json
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\bin\Debug\net6.0\StoringDataExamples.Business.JsonStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\bin\Debug\net6.0\StoringDataExamples.Business.JsonStorage.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\bin\Debug\net6.0\StoringDataExamples.Business.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\bin\Debug\net6.0\StoringDataExamples.Business.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.csproj.CopyComplete
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\refint\StoringDataExamples.Business.JsonStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\StoringDataExamples.Business.JsonStorage.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\obj\Debug\net6.0\ref\StoringDataExamples.Business.JsonStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\bin\Debug\net6.0\StoringDataExamples.Data.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.JsonStorage\bin\Debug\net6.0\StoringDataExamples.Data.pdb

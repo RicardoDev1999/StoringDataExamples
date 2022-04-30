@@ -1,0 +1,17 @@
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\bin\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.deps.json
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\bin\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\bin\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\bin\Debug\net6.0\StoringDataExamples.Business.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\bin\Debug\net6.0\StoringDataExamples.Business.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.csproj.CopyComplete
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\refint\StoringDataExamples.Business.TextFileStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\StoringDataExamples.Business.TextFileStorage.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\obj\Debug\net6.0\ref\StoringDataExamples.Business.TextFileStorage.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\bin\Debug\net6.0\StoringDataExamples.Data.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Business.TextFileStorage\bin\Debug\net6.0\StoringDataExamples.Data.pdb

@@ -1,0 +1,29 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Configurations>Debug;Release;TextStorage - DEBUG;JsonStorage - DEBUG</Configurations>
+    <GenerateDocumentationFile>False</GenerateDocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="6.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\StoringDataExamples.Business.JsonStorage\StoringDataExamples.Business.JsonStorage.csproj" />
+    <ProjectReference Include="..\StoringDataExamples.Business.SQLStorage\StoringDataExamples.Business.SQLStorage.csproj" />
+    <ProjectReference Include="..\StoringDataExamples.Business.TextFileStorage\StoringDataExamples.Business.TextFileStorage.csproj" />
+    <ProjectReference Include="..\StoringDataExamples.Business\StoringDataExamples.Business.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="appsettings.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>

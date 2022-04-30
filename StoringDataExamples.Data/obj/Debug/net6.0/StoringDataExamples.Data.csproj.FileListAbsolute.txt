@@ -1,0 +1,12 @@
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\bin\Debug\net6.0\StoringDataExamples.Data.deps.json
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\bin\Debug\net6.0\StoringDataExamples.Data.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\bin\Debug\net6.0\StoringDataExamples.Data.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\StoringDataExamples.Data.csproj.AssemblyReference.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\StoringDataExamples.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\StoringDataExamples.Data.AssemblyInfoInputs.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\StoringDataExamples.Data.AssemblyInfo.cs
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\StoringDataExamples.Data.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\StoringDataExamples.Data.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\refint\StoringDataExamples.Data.dll
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\StoringDataExamples.Data.pdb
+C:\Users\Ricardo\source\repos\StoringDataExamples\StoringDataExamples.Data\obj\Debug\net6.0\ref\StoringDataExamples.Data.dll
